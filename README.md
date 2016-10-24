@@ -3,6 +3,7 @@
 A list of serverless resources, tools, and frameworks specifically for Golang. Please feel free to fork and send pull requests to include additional links (trying to keep things alphabetically ordered). This list is, in some ways, a subset of https://github.com/ServerlessHeroes/serverless-resources and inspired by some of the other lists out there like https://github.com/avelino/awesome-go and is intended to work the same way (both of those lists you should also check out by the way).
 
 ## Frameworks
+Projects with more robust goals than simple deployment.
 
 [λ Gordon](https://github.com/jorgebastida/gordon) - Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
 
@@ -15,8 +16,9 @@ A list of serverless resources, tools, and frameworks specifically for Golang. P
 [discfg](https://github.com/tmaiaroto/discfg) - A serverless application configuration tool using Lambda and DynamoDB
 
 ## Stand Alone Deployment Tools
+Tools that aren't quite frameworks, but are intended for getting your Go code easily deployed to a serverless provider.
 
-[go-lambda](https://github.com/xlab/go-lambda) - Not an "all in one" tool/framework, but a useful CLI tool for deploying Go in AWS Lambda
+[go-lambda](https://github.com/xlab/go-lambda) - A CLI tool for deploying Go in AWS Lambda
 
 ## Snippets
 
