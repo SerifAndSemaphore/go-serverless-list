@@ -14,6 +14,10 @@ A list of serverless resources, tools, and frameworks specifically for Golang. P
 
 [discfg](https://github.com/tmaiaroto/discfg) - A serverless application configuration tool using Lambda and DynamoDB
 
+## Stand Alone Deployment Tools
+
+[go-lambda](https://github.com/xlab/go-lambda) - Not an "all in one" tool/framework, but a useful CLI tool for deploying Go in AWS Lambda
+
 ## Snippets
 
 [lambda_proc](https://github.com/jasonmoo/lambda_proc) - One way to run Go in AWS Lambda
