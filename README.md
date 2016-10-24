@@ -13,3 +13,13 @@ A list of serverless resources, tools, and frameworks specifically for Golang. P
 ## Discovery & Configuration
 
 [discfg](https://github.com/tmaiaroto/discfg) - A serverless application configuration tool using Lambda and DynamoDB
+
+## Snippets
+
+[lambda_proc](https://github.com/jasonmoo/lambda_proc) - One way to run Go in AWS Lambda
+
+[Node.js handler for Go in Lambda](https://gist.github.com/miksago/d1c456d4e235e025791d) - Another way to run Go in AWS Lambda
+
+## Examples & Demos
+
+[go-lambda-geoip](https://github.com/tmaiaroto/go-lambda-geoip) - An example using Node.js to call Go in AWS Lambda to retrieve the requester's IP -> geolocation
