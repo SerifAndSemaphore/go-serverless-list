@@ -22,4 +22,4 @@ A list of serverless resources, tools, and frameworks specifically for Golang. P
 
 ## Examples & Demos
 
-[go-lambda-geoip](https://github.com/tmaiaroto/go-lambda-geoip) - An example using Node.js to call Go in AWS Lambda to retrieve the requester's IP -> geolocation
+[go-lambda-geoip](https://github.com/tmaiaroto/go-lambda-geoip) - An example using Node.js to call Go in AWS Lambda to retrieve the requester's IP -> geolocation via API Gateway
