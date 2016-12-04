@@ -19,6 +19,8 @@ _Tools and services for serverless discovery and configuration._
 ## Stand Alone Deployment Tools
 _Tools that aren't quite frameworks, but are intended for getting your Go code easily deployed to a serverless provider._
 
+[Aegis](https://github.com/tmaiaroto/aegis) - A tool for deploying AWS Lambda Proxy with API Gateway (allows your Lambda to handle any RESTful requests via API Gateway's `ANY` method)
+
 [eawsy AWS Lambda - Go](https://github.com/eawsy/aws-lambda-go) - A tool for deploying Go in AWS Lambda using Python for speed
 
 [go-lambda](https://github.com/xlab/go-lambda) - A CLI tool for deploying Go in AWS Lambda
