@@ -36,6 +36,8 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 
 [go-lambda](https://github.com/xlab/go-lambda) - A CLI tool for deploying Go in AWS Lambda
 
+[cloudfunc](https://github.com/flowup/cloudfunc) - Deploying Google Cloud Functions written in Golang with ease
+
 ## Snippets
 
 [lambda_proc](https://github.com/jasonmoo/lambda_proc) - One way to run Go in AWS Lambda using Node.js
