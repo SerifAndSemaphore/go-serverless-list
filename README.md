@@ -32,11 +32,11 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 
 [azul](https://github.com/wbuchwalter/azul) - A tool for deploying and running Go in Microsoft Azure Functions
 
+[cloudfunc](https://github.com/flowup/cloudfunc) - Deploying Google Cloud Functions written in Golang with ease
+
 [eawsy AWS Lambda - Go](https://github.com/eawsy/aws-lambda-go) - A tool for deploying Go in AWS Lambda using Python for speed
 
 [go-lambda](https://github.com/xlab/go-lambda) - A CLI tool for deploying Go in AWS Lambda
-
-[cloudfunc](https://github.com/flowup/cloudfunc) - Deploying Google Cloud Functions written in Golang with ease
 
 ## Snippets
 
