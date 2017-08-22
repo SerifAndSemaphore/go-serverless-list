@@ -7,6 +7,8 @@ _Serverless platforms and services that support Go (where you can run your funct
 
 [AWS Lambda](https://aws.amazon.com/lambda) - AWS Lambda will allow Go through a wrapper (see tools below)
 
+[Hyper.sh](https://console.hyper.sh/register/invite/4DWLbzRrPYumMW47jyLACr6zwqRNJNcO) - Hyper.sh allows you to run Docker containers billed by the second and is a fully managed PaaS...and those are the reasons why it's roped in with "serverless" (shameless full disclosure: my referral code in URL)
+
 [Iron Functions](https://github.com/iron-io/functions) - Iron.io has open sourced it's Functions platform which lets you run Docker container to run functions
 
 [Microsoft Azure Functions]() - Azure Functions will allow Go through a wrapper similar to AWS Lambda
