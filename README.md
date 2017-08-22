@@ -18,6 +18,8 @@ _Projects with more robust goals than simple deployment._
 
 [Apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease
 
+[Golang Serverless](https://github.com/yunspace/serverless-golang) - Golang support for [Serverless](https://serverless.com/) framework
+
 [Sparta](http://gosparta.io/) - A Go framework for AWS Lambda microservices
 
 ## Discovery & Configuration
