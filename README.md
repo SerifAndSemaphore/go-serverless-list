@@ -13,6 +13,8 @@ _Serverless platforms and services that support Go (where you can run your funct
 
 [Microsoft Azure Functions]() - Azure Functions will allow Go through a wrapper similar to AWS Lambda
 
+[OpenFaaS - Functions as a Service](https://github.com/openfaas/faas) - Serverless platform/framework for Kubernetes, Docker Swarm, Hyper.sh, DC/OS and Rancher
+
 ## Frameworks
 _Projects with more robust goals than simple deployment._
 
