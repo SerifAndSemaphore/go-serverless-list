@@ -48,11 +48,11 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 
 ## Snippets
 
+[AWS Lambda Binary](https://www.npmjs.com/package/aws-lambda-binary) - Run any compiled binary on AWS Lambda over standard input and output for maximum flexibility. 5 lines of code to get started with your lambda.
+
 [lambda_proc](https://github.com/jasonmoo/lambda_proc) - One way to run Go in AWS Lambda using Node.js
 
 [Node.js handler for Go in Lambda](https://gist.github.com/miksago/d1c456d4e235e025791d) - Another way to run Go in AWS Lambda
-
-[AWS Lambda Binary](https://www.npmjs.com/package/aws-lambda-binary) - Run any compiled binary on AWS Lambda over standard input and output for maximum flexibility. 5 lines of code to get started with your lambda.
 
 ## Examples & Demos
 
