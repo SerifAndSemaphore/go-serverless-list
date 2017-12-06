@@ -52,8 +52,6 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 
 [lambda_proc](https://github.com/jasonmoo/lambda_proc) - One way to run Go in AWS Lambda using Node.js
 
-[Node.js handler for Go in Lambda](https://gist.github.com/miksago/d1c456d4e235e025791d) - Another way to run Go in AWS Lambda
-
 ## Examples & Demos
 
 [go-lambda-geoip](https://github.com/tmaiaroto/go-lambda-geoip) - An example using Node.js to call Go in AWS Lambda to retrieve the requester's IP -> geolocation via API Gateway
