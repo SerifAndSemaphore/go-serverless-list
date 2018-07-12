@@ -20,23 +20,18 @@ _Projects with more robust goals than simple deployment._
 
 [λ Gordon](https://github.com/jorgebastida/gordon) - Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
 
+[Aegis](https://github.com/tmaiaroto/aegis) - A serverless application development framework for AWS (including a separate deploy tool)
+
 [Apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease
 
-[Fnproject](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
+[Fnproject](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform
 
 [Golang Serverless](https://github.com/yunspace/serverless-golang) - Golang support for [Serverless](https://serverless.com/) framework
 
 [Sparta](http://gosparta.io/) - A Go framework for AWS Lambda microservices
 
-## Discovery & Configuration
-_Tools and services for serverless discovery and configuration._
-
-[discfg](https://github.com/tmaiaroto/discfg) - A serverless application configuration tool using Lambda and DynamoDB
-
 ## Stand Alone Deployment Tools
 _Tools that aren't quite frameworks, but are intended for getting your Go code easily deployed to a serverless provider._
-
-[Aegis](https://github.com/tmaiaroto/aegis) - A tool for deploying AWS Lambda Proxy with API Gateway (allows your Lambda to handle any RESTful requests via API Gateway's `ANY` method)
 
 [azul](https://github.com/wbuchwalter/azul) - A tool for deploying and running Go in Microsoft Azure Functions
 
