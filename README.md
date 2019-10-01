@@ -41,7 +41,7 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 
 [go-lambda](https://github.com/xlab/go-lambda) - A CLI tool for deploying Go in AWS Lambda
 
-[giner](https://github.com/ysugimoto/ginger) - A tool to create, deploy and invoke Go functions
+[ginger](https://github.com/ysugimoto/ginger) - A tool to create, deploy and invoke Go functions
 
 ## Snippets
 
