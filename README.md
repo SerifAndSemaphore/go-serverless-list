@@ -22,7 +22,7 @@ _Projects with more robust goals than simple deployment._
 
 [Aegis](https://github.com/tmaiaroto/aegis) - A serverless application development framework for AWS (including a separate deploy tool)
 
-[Apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease
+[Apex](https://github.com/apex/up) - Build, deploy, and manage AWS Lambda functions with ease
 
 [Fnproject](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform
 
@@ -41,6 +41,8 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 
 [go-lambda](https://github.com/xlab/go-lambda) - A CLI tool for deploying Go in AWS Lambda
 
+[ginger](https://github.com/ysugimoto/ginger) - A tool to create, deploy and invoke Go functions
+
 ## Snippets
 
 [AWS Lambda Binary](https://www.npmjs.com/package/aws-lambda-binary) - Run any compiled binary on AWS Lambda over standard input and output for maximum flexibility. 5 lines of code to get started with your lambda.
@@ -50,3 +52,11 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 ## Examples & Demos
 
 [go-lambda-geoip](https://github.com/tmaiaroto/go-lambda-geoip) - An example using Node.js to call Go in AWS Lambda to retrieve the requester's IP -> geolocation via API Gateway
+
+[go-sls-crudl](https://github.com/nerdguru/go-sls-crudl) - An example Serverless framework project using Golang to build a simple API Gateway
+
+[serverless-go-graphql](https://github.com/RafalWilinski/serverless-go-graphql) - A serverless framework template with Golang, GraphQL and DynamoDB
+
+[serverless-golang-todoapp](https://github.com/otofu-square/serverless-golang-todoapp) - A Todoapp powered by Serverless Framework with Golang
+
+[less](https://github.com/lnquy/less) - Go serverless example containing Vue.js front end, DynamoDB and AWS Lambda with Go and Apex for deployment
