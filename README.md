@@ -41,6 +41,8 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 
 [go-lambda](https://github.com/xlab/go-lambda) - A CLI tool for deploying Go in AWS Lambda
 
+[giner](https://github.com/ysugimoto/ginger) - A tool to create, deploy and invoke Go functions
+
 ## Snippets
 
 [AWS Lambda Binary](https://www.npmjs.com/package/aws-lambda-binary) - Run any compiled binary on AWS Lambda over standard input and output for maximum flexibility. 5 lines of code to get started with your lambda.
