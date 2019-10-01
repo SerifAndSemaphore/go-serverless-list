@@ -22,7 +22,7 @@ _Projects with more robust goals than simple deployment._
 
 [Aegis](https://github.com/tmaiaroto/aegis) - A serverless application development framework for AWS (including a separate deploy tool)
 
-[Apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease
+[Apex](https://github.com/apex/up) - Build, deploy, and manage AWS Lambda functions with ease
 
 [Fnproject](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform
 
