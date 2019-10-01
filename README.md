@@ -52,3 +52,11 @@ _Tools that aren't quite frameworks, but are intended for getting your Go code e
 ## Examples & Demos
 
 [go-lambda-geoip](https://github.com/tmaiaroto/go-lambda-geoip) - An example using Node.js to call Go in AWS Lambda to retrieve the requester's IP -> geolocation via API Gateway
+
+[go-sls-crudl](https://github.com/nerdguru/go-sls-crudl) - An example Serverless framework project using Golang to build a simple API Gateway
+
+[serverless-go-graphql](https://github.com/RafalWilinski/serverless-go-graphql) - A serverless framework template with Golang, GraphQL and DynamoDB
+
+[serverless-golang-todoapp](https://github.com/otofu-square/serverless-golang-todoapp) - A Todoapp powered by Serverless Framework with Golang
+
+[less](https://github.com/lnquy/less) - Go serverless example containing Vue.js front end, DynamoDB and AWS Lambda with Go and Apex for deployment
